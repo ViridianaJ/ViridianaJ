@@ -1,10 +1,8 @@
-## Hello!
+## Hi!<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="100"/> 
 
-![Banner de Viridiana J](BannerGitHub.gif)
+![Banner de Viridiana J](BannerGitHub(1).gif)
 
- 
 
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="100"/>  
 
  	 💻 Computer Engineering student. Tech & cats.
 
